@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather Location</string>
+    <string name="weather_label">Погода на сегодня:</string>
+    <string name="temp_label">Температура:</string>
+</resources>
